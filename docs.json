@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Aloitetaan",
             "pages": [
               "index",
               "quickstart",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Pelipalvelimet",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -82,14 +82,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Asiakaspalvelu",
+        "href": "mailto:info@tritum.fi"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Hallintapaneeli",
+      "href": "https://panel.tritum.fi"
     }
   },
   "footer": {
